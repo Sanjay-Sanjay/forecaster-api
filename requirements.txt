@@ -1,0 +1,15 @@
+trl
+transformers
+torch
+accelerate
+peft
+datasets 
+bitsandbytes 
+flask
+urllib3
+feedparser
+# tradingview_ta 
+# GoogleNews 
+# yfinance
+# einops 
+# wandb
